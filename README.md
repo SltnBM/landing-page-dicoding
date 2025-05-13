@@ -11,8 +11,8 @@ This is a **Dicoding Landing Page** project built using **HTML and CSS** as part
 ---
 
 ## 🛠️ Built With
-- HTML5
-- CSS3
+- ✅ **HTML5** — Markup language
+- 🎨 **CSS3** — Styling and layout
 
 ---
 
@@ -22,13 +22,6 @@ This is a **Dicoding Landing Page** project built using **HTML and CSS** as part
     ├── style.css # Custom CSS styling
     └── img/
     └── preview.png # Preview image
-
----
-
-## 📌 Notes
-> ⚠️ This project only includes the landing page.  
-> It is purely created with **HTML and CSS** for practice or submission purposes.  
-> No frameworks or JavaScript used.
 
 ---
 
@@ -44,8 +37,19 @@ This is a **Dicoding Landing Page** project built using **HTML and CSS** as part
 ```
 3. Open index.html directly in your web browser.
 
+---
+
 ## 🎯 Purpose
 This project was created as a submission task for the Belajar Dasar Pemrograman Web course on Dicoding.
+
+---
+
+## 📌 Notes
+> ⚠️ This project only includes the landing page.  
+> It is purely created with **HTML and CSS** for practice or submission purposes.  
+> No frameworks or JavaScript used.
+
+---
 
 ## 📜 License
 This project is for educational purposes only.
