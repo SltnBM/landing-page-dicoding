@@ -44,3 +44,9 @@ This is a **Dicoding Landing Page** project built using **HTML and CSS** as part
 ```
 3. Open index.html directly in your web browser.
 
+## 🎯 Purpose
+This project was created as a submission task for the Belajar Dasar Pemrograman Web course on Dicoding.
+
+## 📜 License
+This project is for educational purposes only.
+You are free to modify and use it for personal or academic learning.
