@@ -37,5 +37,8 @@ cd landing-page-dicoding
 ## 📌 Notes
 > ⚠️ This project is only a static landing page made with HTML and CSS for learning purposes.
 
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
 ## 📄 License
 Feel free to use this project for personal or educational purposes.
