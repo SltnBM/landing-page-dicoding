@@ -13,10 +13,11 @@ This is a **Dicoding Landing Page** project built using **HTML and CSS** as part
 ## 📁 Project Structure
 ```plaintext
 dicoding-landing-page/
-├── index.html      # Main landing page
-├── style.css       # Custom CSS styling
+├── index.html          # Main landing page
+├── style.css           # Custom CSS styling
+├── README.md           # Project documentation
 └── img/
-└── preview.png     # Preview image
+    └── preview.png     # Preview image
 ```
 
 ## 📸 Preview
