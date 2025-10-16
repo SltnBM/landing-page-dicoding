@@ -1,14 +1,20 @@
 # 🌐 Dicoding Landing Page
 This is a **Dicoding Landing Page** project built using **HTML and CSS** as part of a learning exercise.
 
+---
+
 ## ✨ Features
 - Responsive landing page layout
 - Modern and clean design
 - Built purely with **HTML** and **CSS** (no frameworks or JavaScript)
 
+---
+
 ## ⚙️ Technologies Used
 - HTML for page structure
 - CSS for styling and layout
+
+---
 
 ## 📁 Project Structure
 ```plaintext
@@ -20,9 +26,13 @@ dicoding-landing-page/
     └── preview.png     # Preview image
 ```
 
+---
+
 ## 📸 Preview
 ![Landing Page Preview](img/preview.png)
 > The image above shows the appearance of the Dicoding landing page.
+
+---
 
 ## 🚀 How to Use
 1. Clone or download this repository:
@@ -35,11 +45,17 @@ cd landing-page-dicoding
 ```
 3. Open the `index.html` file directly in your web browser.
 
+---
+
 ## 📌 Notes
 > ⚠️ This project is only a static landing page made with HTML and CSS for learning purposes.
 
+---
+
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+---
 
 ## 📄 License
 Feel free to use this project for personal or educational purposes.
